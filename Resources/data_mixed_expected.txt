@@ -1,0 +1,4 @@
+data_mixed.txt
+Line 1 average 11.292 standard deviation 9.55321
+Line 2 average 9.1875 standard deviation 2.12539
+Line 3 average 6.16 standard deviation 2.51555

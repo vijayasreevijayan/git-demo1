@@ -1,0 +1,3 @@
+data.txt
+Line 1 average 11.2333 standard deviation 9.34041
+Line 2 average 7.21667 standard deviation 7.29286

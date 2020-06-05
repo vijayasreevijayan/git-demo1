@@ -1,0 +1,4 @@
+data_float.txt
+Line 1 average 18.2474 standard deviation 12.2161
+Line 2 average 6.00333 standard deviation 3.31744
+Line 3 average 39.2755 standard deviation 34.6817
