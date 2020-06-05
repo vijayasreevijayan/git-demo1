@@ -6,7 +6,7 @@ The script will execute the interview.exe with the data_xxx.txt as input.
 The  expected results (truth data) expected from the interview.exe for the input data is updated in the xxx_expected.txt
 The actual output from interview.exe and the expected output are compared and the html test report is generated as report.html.
 
-@author: Vijayasree
+@author: Vijayasree Vijayan
 """
 import unittest
 
